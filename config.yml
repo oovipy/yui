@@ -1,5 +1,5 @@
 # title of website
-title: yui
+title: Yui资源
 
 # description of website
 description: oovipy's navigation site
@@ -11,7 +11,7 @@ favicon: "https://github.com/oovipy.png?size=40"
 url: https://oovipy.github.io/yui/
 
 # github profile url
-github: "https://github.com/oovipy"
+github: 
 
 # footer message
 footer: © 2021-2021 @oovipy
